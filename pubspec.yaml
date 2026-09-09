@@ -1,0 +1,55 @@
+name: kabadiwala_connect
+description: "KabadiwalaConnect - Digital bridge between informal scrap collectors and formal recyclers"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+  # State Management
+  provider: ^6.1.2
+
+  # Database & Storage
+  sqflite: ^2.4.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+
+  # Camera & Media
+  image_picker: ^1.1.2
+
+  # Location
+  geolocator: ^13.0.2
+
+  # Connectivity
+  connectivity_plus: ^6.1.4
+
+  # Text-to-Speech
+  flutter_tts: ^4.2.0
+
+  # QR Code Generation
+  qr_flutter: ^4.1.0
+
+  # Charts
+  fl_chart: ^0.70.2
+
+  # Utilities
+  uuid: ^4.5.1
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true

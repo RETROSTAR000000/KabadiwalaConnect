@@ -1,0 +1,212 @@
+{
+  "@@locale": "en",
+  "appTitle": "KabadiwalaConnect",
+  "home": "Home",
+  "newLot": "New Lot",
+  "todayPrices": "Today's Prices",
+  "findRecycler": "Find Recycler",
+  "myLedger": "My Ledger",
+  "safetyGuide": "Safety Guide",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "marathi": "Marathi",
+  "recentTransactions": "Recent Transactions",
+  "noTransactions": "No transactions yet",
+
+  "takePhoto": "Take Photo",
+  "chooseFromGallery": "Choose from Gallery",
+  "retakePhoto": "Retake Photo",
+  "useThisPhoto": "Use this photo",
+  "photoRequired": "Please take a photo of the material",
+
+  "selectCategory": "Select Material Type",
+  "materialPCB": "PCB / Circuit Board",
+  "materialCRT": "Old TV (CRT)",
+  "materialLCD": "LCD Screen",
+  "materialCable": "Cable / Wire",
+  "materialBattery": "Battery",
+  "materialMotor": "Motor",
+  "materialPlastic": "Mixed Plastic",
+
+  "enterWeight": "Enter Weight",
+  "weightInKg": "Weight (kg)",
+  "weightPrompt": "How many kilograms?",
+  "weightRequired": "Please enter weight",
+
+  "estimatedValue": "Estimated Value: ₹{value}",
+  "@estimatedValue": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "priceRange": "Market Range: ₹{low} - ₹{high}",
+  "@priceRange": {
+    "placeholders": {
+      "low": { "type": "String" },
+      "high": { "type": "String" }
+    }
+  },
+  "perKg": "per kg",
+
+  "saveLot": "Save Lot",
+  "lotSaved": "Lot saved successfully!",
+  "lotSavedFindRecycler": "Lot saved! Find a recycler?",
+  "findRecyclerForLot": "Find Recycler for This Lot",
+
+  "priceBoardTitle": "Price Board",
+  "lastUpdated": "Last updated: {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "tapToHearPrice": "Tap any item to hear its price",
+  "pricePerKg": "₹{price}/kg",
+  "@pricePerKg": {
+    "placeholders": {
+      "price": { "type": "String" }
+    }
+  },
+  "priceTrend": "Price Trend",
+  "priceUp": "Price is rising",
+  "priceDown": "Price is falling",
+  "priceStable": "Price is stable",
+
+  "recyclerListTitle": "Nearby Recyclers",
+  "noRecyclersFound": "No recyclers found nearby",
+  "distance": "{km} km away",
+  "@distance": {
+    "placeholders": {
+      "km": { "type": "String" }
+    }
+  },
+  "authorized": "Authorized",
+  "pickupAvailable": "Pickup Available",
+  "offersRate": "Offers: ₹{rate}/kg",
+  "@offersRate": {
+    "placeholders": {
+      "rate": { "type": "String" }
+    }
+  },
+  "acceptsCategory": "Accepts: {categories}",
+  "@acceptsCategory": {
+    "placeholders": {
+      "categories": { "type": "String" }
+    }
+  },
+  "contactRecycler": "Contact Recycler",
+  "callRecycler": "Call",
+  "selectRecycler": "Select This Recycler",
+
+  "handoverTitle": "Handover Receipt",
+  "handoverReference": "Reference: {ref}",
+  "@handoverReference": {
+    "placeholders": {
+      "ref": { "type": "String" }
+    }
+  },
+  "material": "Material",
+  "weight": "Weight",
+  "agreedPrice": "Agreed Price",
+  "collector": "Collector",
+  "recycler": "Recycler",
+  "location": "Location",
+  "dateTime": "Date & Time",
+  "recyclerConfirmed": "Recycler Confirmed",
+  "pending": "Pending",
+  "confirmed": "Confirmed",
+  "generateHandover": "Generate Handover Record",
+  "shareHandover": "Share Receipt",
+
+  "ledgerTitle": "My Earnings",
+  "totalEarnings": "Total Earnings",
+  "pendingDues": "Pending Dues",
+  "completedSales": "Completed Sales",
+  "transactionHistory": "Transaction History",
+  "paid": "Paid",
+  "unpaid": "Unpaid",
+
+  "safetyTitle": "Safety Guide",
+  "safetyWarning": "WARNING: Dangerous Practice",
+  "safetySafe": "Safe Practice",
+  "doNotBurn": "Do not burn cables or wires",
+  "doNotOpenBatteries": "Do not open or puncture batteries",
+  "doNotBreakCRT": "Do not break CRT screens - they contain lead",
+  "doNotAcidLeach": "Do not use acid to extract metals from PCBs",
+  "wearGloves": "Always wear gloves when handling e-waste",
+  "wearMask": "Wear a mask when sorting dusty materials",
+  "washHands": "Wash hands after handling e-waste",
+  "keepAwayChildren": "Keep e-waste away from children",
+  "handleBatteriesSafely": "Handle batteries carefully - risk of fire",
+  "listenSafety": "Tap to hear safety guidance",
+
+  "offline": "Offline - Data will sync when connected",
+  "online": "Online",
+  "syncing": "Syncing data...",
+  "syncComplete": "Data synced successfully",
+
+  "ok": "OK",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "next": "Next",
+  "back": "Back",
+  "done": "Done",
+  "yes": "Yes",
+  "no": "No",
+  "close": "Close",
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "retry": "Retry",
+
+  "welcomeMessage": "Welcome to KabadiwalaConnect!",
+  "collectorId": "Collector ID: {id}",
+  "@collectorId": {
+    "placeholders": {
+      "id": { "type": "String" }
+    }
+  },
+
+  "lotCreated": "Lot Created",
+  "lotStatus": "Status: {status}",
+  "@lotStatus": {
+    "placeholders": {
+      "status": { "type": "String" }
+    }
+  },
+  "created": "Created",
+  "quoted": "Quoted",
+  "accepted": "Accepted",
+  "handedOver": "Handed Over",
+  "completed": "Completed",
+
+  "condition": "Condition",
+  "conditionIntact": "Intact / Good",
+  "conditionBroken": "Broken / Damaged",
+  "conditionMixed": "Mixed",
+
+  "ttsGreeting": "Welcome to Kabadiwala Connect. What would you like to do?",
+  "ttsPriceBoard": "Today's prices. Tap any item to hear its price.",
+  "ttsPriceInfo": "{material} price today is {price} rupees per kilo",
+  "@ttsPriceInfo": {
+    "placeholders": {
+      "material": { "type": "String" },
+      "price": { "type": "String" }
+    }
+  },
+  "ttsLotSaved": "Your lot has been saved. Estimated value is {value} rupees.",
+  "@ttsLotSaved": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "ttsRecyclerFound": "Found {count} recyclers near you.",
+  "@ttsRecyclerFound": {
+    "placeholders": {
+      "count": { "type": "String" }
+    }
+  }
+}

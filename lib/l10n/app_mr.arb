@@ -1,0 +1,212 @@
+{
+  "@@locale": "mr",
+  "appTitle": "कबाडीवाला कनेक्ट",
+  "home": "होम",
+  "newLot": "नवीन माल",
+  "todayPrices": "आजचे भाव",
+  "findRecycler": "रिसायकलर शोधा",
+  "myLedger": "माझा हिशोब",
+  "safetyGuide": "सुरक्षा मार्गदर्शक",
+  "settings": "सेटिंग्ज",
+  "language": "भाषा",
+  "english": "इंग्रजी",
+  "hindi": "हिंदी",
+  "marathi": "मराठी",
+  "recentTransactions": "अलीकडील व्यवहार",
+  "noTransactions": "अजून कोणतेही व्यवहार नाहीत",
+
+  "takePhoto": "फोटो काढा",
+  "chooseFromGallery": "गॅलरीतून निवडा",
+  "retakePhoto": "पुन्हा फोटो काढा",
+  "useThisPhoto": "हा फोटो वापरा",
+  "photoRequired": "कृपया मालाचा फोटो काढा",
+
+  "selectCategory": "मालाचा प्रकार निवडा",
+  "materialPCB": "पीसीबी / सर्किट बोर्ड",
+  "materialCRT": "जुना टीव्ही (CRT)",
+  "materialLCD": "एलसीडी स्क्रीन",
+  "materialCable": "वायर / केबल",
+  "materialBattery": "बॅटरी",
+  "materialMotor": "मोटर",
+  "materialPlastic": "मिक्स प्लास्टिक",
+
+  "enterWeight": "वजन टाका",
+  "weightInKg": "वजन (किलो)",
+  "weightPrompt": "किती किलो?",
+  "weightRequired": "कृपया वजन टाका",
+
+  "estimatedValue": "अंदाजे किंमत: ₹{value}",
+  "@estimatedValue": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "priceRange": "बाजार श्रेणी: ₹{low} - ₹{high}",
+  "@priceRange": {
+    "placeholders": {
+      "low": { "type": "String" },
+      "high": { "type": "String" }
+    }
+  },
+  "perKg": "प्रति किलो",
+
+  "saveLot": "माल सेव्ह करा",
+  "lotSaved": "माल सेव्ह झाला!",
+  "lotSavedFindRecycler": "माल सेव्ह झाला! रिसायकलर शोधायचा?",
+  "findRecyclerForLot": "या मालासाठी रिसायकलर शोधा",
+
+  "priceBoardTitle": "भाव पट्टी",
+  "lastUpdated": "शेवटचे अपडेट: {time}",
+  "@lastUpdated": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "tapToHearPrice": "भाव ऐकण्यासाठी कोणत्याही वस्तूवर टॅप करा",
+  "pricePerKg": "₹{price}/किलो",
+  "@pricePerKg": {
+    "placeholders": {
+      "price": { "type": "String" }
+    }
+  },
+  "priceTrend": "भावाचा कल",
+  "priceUp": "भाव वाढत आहे",
+  "priceDown": "भाव कमी होत आहे",
+  "priceStable": "भाव स्थिर आहे",
+
+  "recyclerListTitle": "जवळचे रिसायकलर",
+  "noRecyclersFound": "जवळपास कोणताही रिसायकलर सापडला नाही",
+  "distance": "{km} किमी दूर",
+  "@distance": {
+    "placeholders": {
+      "km": { "type": "String" }
+    }
+  },
+  "authorized": "अधिकृत",
+  "pickupAvailable": "पिकअप उपलब्ध",
+  "offersRate": "दर: ₹{rate}/किलो",
+  "@offersRate": {
+    "placeholders": {
+      "rate": { "type": "String" }
+    }
+  },
+  "acceptsCategory": "स्वीकारतो: {categories}",
+  "@acceptsCategory": {
+    "placeholders": {
+      "categories": { "type": "String" }
+    }
+  },
+  "contactRecycler": "रिसायकलरशी संपर्क करा",
+  "callRecycler": "कॉल करा",
+  "selectRecycler": "हा रिसायकलर निवडा",
+
+  "handoverTitle": "हँडओव्हर पावती",
+  "handoverReference": "संदर्भ: {ref}",
+  "@handoverReference": {
+    "placeholders": {
+      "ref": { "type": "String" }
+    }
+  },
+  "material": "माल",
+  "weight": "वजन",
+  "agreedPrice": "ठरलेली किंमत",
+  "collector": "कबाडीवाला",
+  "recycler": "रिसायकलर",
+  "location": "ठिकाण",
+  "dateTime": "तारीख आणि वेळ",
+  "recyclerConfirmed": "रिसायकलरने पुष्टी केली",
+  "pending": "बाकी",
+  "confirmed": "पुष्टी झाली",
+  "generateHandover": "हँडओव्हर पावती तयार करा",
+  "shareHandover": "पावती शेअर करा",
+
+  "ledgerTitle": "माझी कमाई",
+  "totalEarnings": "एकूण कमाई",
+  "pendingDues": "बाकी रक्कम",
+  "completedSales": "पूर्ण विक्री",
+  "transactionHistory": "व्यवहार इतिहास",
+  "paid": "पैसे मिळाले",
+  "unpaid": "पैसे बाकी",
+
+  "safetyTitle": "सुरक्षा मार्गदर्शक",
+  "safetyWarning": "चेतावणी: धोकादायक पद्धत",
+  "safetySafe": "सुरक्षित पद्धत",
+  "doNotBurn": "वायर किंवा केबल जाळू नका",
+  "doNotOpenBatteries": "बॅटरी उघडू नका किंवा छिद्र पाडू नका",
+  "doNotBreakCRT": "CRT स्क्रीन फोडू नका - त्यात शिसे असते",
+  "doNotAcidLeach": "PCB मधून धातू काढण्यासाठी अ‍ॅसिड वापरू नका",
+  "wearGloves": "ई-कचरा हाताळताना नेहमी हातमोजे घाला",
+  "wearMask": "धूळ असलेला माल वेगळा करताना मास्क घाला",
+  "washHands": "ई-कचरा हाताळल्यानंतर हात धुवा",
+  "keepAwayChildren": "ई-कचरा मुलांपासून दूर ठेवा",
+  "handleBatteriesSafely": "बॅटरी काळजीपूर्वक हाताळा - आगीचा धोका",
+  "listenSafety": "सुरक्षा माहिती ऐकण्यासाठी टॅप करा",
+
+  "offline": "ऑफलाइन - कनेक्ट झाल्यावर डेटा सिंक होईल",
+  "online": "ऑनलाइन",
+  "syncing": "डेटा सिंक होत आहे...",
+  "syncComplete": "डेटा यशस्वीरित्या सिंक झाला",
+
+  "ok": "ठीक आहे",
+  "cancel": "रद्द करा",
+  "save": "सेव्ह करा",
+  "delete": "हटवा",
+  "edit": "बदला",
+  "next": "पुढे",
+  "back": "मागे",
+  "done": "झाले",
+  "yes": "हो",
+  "no": "नाही",
+  "close": "बंद करा",
+  "loading": "लोड होत आहे...",
+  "error": "काहीतरी चूक झाली",
+  "retry": "पुन्हा प्रयत्न करा",
+
+  "welcomeMessage": "कबाडीवाला कनेक्ट मध्ये आपले स्वागत!",
+  "collectorId": "कलेक्टर आयडी: {id}",
+  "@collectorId": {
+    "placeholders": {
+      "id": { "type": "String" }
+    }
+  },
+
+  "lotCreated": "माल तयार झाला",
+  "lotStatus": "स्थिती: {status}",
+  "@lotStatus": {
+    "placeholders": {
+      "status": { "type": "String" }
+    }
+  },
+  "created": "तयार",
+  "quoted": "भाव मिळाला",
+  "accepted": "स्वीकारले",
+  "handedOver": "सोपवले",
+  "completed": "पूर्ण",
+
+  "condition": "स्थिती",
+  "conditionIntact": "चांगले / व्यवस्थित",
+  "conditionBroken": "तुटलेले / खराब",
+  "conditionMixed": "मिश्र",
+
+  "ttsGreeting": "कबाडीवाला कनेक्ट मध्ये आपले स्वागत. आपल्याला काय करायचे आहे?",
+  "ttsPriceBoard": "आजचे भाव. भाव ऐकण्यासाठी कोणत्याही वस्तूवर टॅप करा.",
+  "ttsPriceInfo": "आज {material} चा भाव {price} रुपये किलो आहे",
+  "@ttsPriceInfo": {
+    "placeholders": {
+      "material": { "type": "String" },
+      "price": { "type": "String" }
+    }
+  },
+  "ttsLotSaved": "तुमचा माल सेव्ह झाला. अंदाजे किंमत {value} रुपये आहे.",
+  "@ttsLotSaved": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "ttsRecyclerFound": "तुमच्या जवळ {count} रिसायकलर सापडले.",
+  "@ttsRecyclerFound": {
+    "placeholders": {
+      "count": { "type": "String" }
+    }
+  }
+}
